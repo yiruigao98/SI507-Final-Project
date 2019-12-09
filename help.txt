@@ -1,0 +1,8 @@
+The laptops in the databse are just crawled from https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000
+
+Command Guide
+
+You have two options to view the filtered data:
+1. Command console
+2. Plotly tables/charts
+3. Flask in a webpage

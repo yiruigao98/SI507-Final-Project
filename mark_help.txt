@@ -1,0 +1,7 @@
+If you want to mark any laptops, you need to follow the following format:
+
+>> mark [Id of product] ...
+(e.g.1 >> mark 1 12 3)(e.g.2 >> mark 29)
+
+If you don't want to mark any product, just ignore.
+

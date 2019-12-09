@@ -1,0 +1,25 @@
+Thanks for staying here!
+
+Now you have the following options to view the laptops. You can first select the attribute that you care about or you want to view:
+1. brand
+2. price
+3. memory
+4. storage
+5. processor
+6. rating
+7. color
+8. size
+
+If you select:
+    1. brand, please indicate your preferred brand (brand para) (e.g. >> brand:Apple)
+    2. price, please indicate your preferred price range (price para1 para2) (e.g. >> price:1000 2000)
+    3. memory, please indicate your preferred memory (e.g. >> memory:8)
+    4. storage, please indicate your preferred storage (e.g. >> storage:128GB Solid State Drive)
+    5. processor, please indicate your preferred processor (e.g. >> processor:Intel Core i5)
+    6. rating, please indicate your preferred average rating range (e.g. >> rating:2.5 4.5)
+    7. color, please indicate your preferred color (e.g. >> color:red)
+    8. size, please indicate your preferred size range (e.g.1 >> size: 12 15) (e.g.2 >> size:13.3)
+
+You can also have multiple filters at the same time, please add "|" when you have multiple ones.
+(e.g. >> memory:8|brand:Apple|processor:Intel Core i5)
+

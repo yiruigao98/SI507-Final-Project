@@ -1,0 +1,19 @@
+We have filtered what you are interested!
+
+Now you have option to see the record. Please select parameters to sort by and number of records you want to see.
+
+Sort by options:
+1. Price (default)
+2. Size
+3. [Memory(GB)]
+4. [Average Rating]
+5. [Review Number]
+
+Number of records:
+1. top (default, 5)
+2. bottom
+
+Please follow the following foramt:
+>> sort=[sortoption]|top/bottom=[number of record you want to display]
+(e.g.1 >> sort=Size|top=5)(e.g.2 >> sort=[Memory(GB)]|bottom=10)
+

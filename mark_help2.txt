@@ -1,0 +1,7 @@
+To see your marked laptops, you can:
+1. Check your marked products'Ids: >> marked check 
+2. See the reviews of a particular product: >> marked reviews [Id] (e.g. >> marked reviews 1)
+3. Compare two products in your marked ones: >> marked compare [Id1] [Id2] (e.g. >> marked compare 8 69)
+4. Delete a marked product: >> marked delete [Id] (e.g. >> marked delete 10)
+5. Exit the marked quering part: >> leave marked
+
